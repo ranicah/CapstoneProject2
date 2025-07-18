@@ -3,7 +3,7 @@
 Pada projek kedua ini, sebagai data analis, saya diminta untuk menganalisis mengenai pola penumpang Transjakarta. 
 
 ### Perusahaan Transjakarta
-Transjakarta adalah sistem transportasi Bus Rapid Transit (BRT) pertama di Asia Tenggara dan Selatan dengan jalur lintasan terpanjang di dunia (208 km).sistem transportasi Bus Rapid Transit (BRT) pertama di Asia Tenggara dan Selatan dengan jalur lintasan terpanjang di dunia (208 km). Saat ini, Transjakarta terhubung dengan daerah Bodetabek (Bogor, Depok, Tangerang, dan Bekasi).
+Transjakarta adalah sistem transportasi Bus Rapid Transit (BRT) pertama di Asia Tenggara dan Selatan dengan jalur lintasan terpanjang di dunia (208 km).sistem transportasi Bus Rapid Transit (BRT) pertama di Asia Tenggara dan Selatan dengan jalur lintasan terpanjang di dunia (208 km). Saat ini, Transjakarta terhubung dengan daerah Bodetabek (Bogor, Depok, Tangerang, dan Bekasi). Bertambahnya penduduk Jakarta berpengaruh terhadap penggunaan Transjakarta sebagai transportasi umum.
 
 ### Permasalahan dan Tujuan
 Permasalahannya yaitu perusahaan ingin melihat secara detail mengenai kepadatan koridor dan halte, kategori penumpang, serta waktu sibuk dalam satu minggu sehingga dapat dilakukan aksi berkelanjutan untuk meningkatkan kenyamanan penumpang dari hasil analisis.
